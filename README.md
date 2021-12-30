@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/jonathankamau/jonathankamau/master/resources/images/my-initials.gif"/>
 </p>
 
-My name is Jonathan Kamau and I am a Software Engineer at [Yoyo](https://yoyowallet.com/). I have over three years of experience, mostly in a backend role with Python working in distributed teams. I actively pursue self-learning and growth as a developer and always work towards improving my craft.
+My name is saravanavel and I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
 
 <p align="center">
   <a href="http://jonathankamau.com/" target="_blank">More about Me</a> | 

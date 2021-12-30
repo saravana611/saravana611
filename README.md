@@ -6,8 +6,8 @@
 
 My name is saravanavel and I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
 
-<p align="center">
-  <a href="http://jonathankamau.com/" target="_blank">More about Me</a> | 
+##Find me on 
+<p align="center">| 
   <a href="https://www.linkedin.com/in/kamaujonathan/" target="_blank">Linkedin</a>
 </p>
 

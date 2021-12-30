@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+My name is
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/saravana611/saravana611/main/resources/images/Saravana611.png"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 
-My name is saravanavel and I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
+My name is  I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
 
 ## Find me on 
 <p align="center">| 

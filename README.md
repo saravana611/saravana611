@@ -1,4 +1,3 @@
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekspopovic)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)
 

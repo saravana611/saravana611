@@ -1,6 +1,6 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)
 
 ![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 

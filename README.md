@@ -43,12 +43,7 @@ My name is saravanavel and I am currently a Student in [Rathinam college of Arts
 </ul>
 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jonathankamau&repo=github-readme-stats&hide=stars,contribs&count_private=true&show_icons=true&theme=merko" />
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jonathankamau/count.svg" />
-</p>
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)
 

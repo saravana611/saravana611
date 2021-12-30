@@ -46,7 +46,7 @@ My name is saravanavel and I am currently a Student in [Rathinam college of Arts
 
 
 
-<p align="middle left">
+<p align="middle-left">
   <img src="https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green"/>
   <                                                                    
                               />

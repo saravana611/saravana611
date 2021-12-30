@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)]
 
-![](https://komarev.com/ghpvc/?username=saravana611&color=dc143c&style=plastic&)
+![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

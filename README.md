@@ -1,3 +1,5 @@
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)
 

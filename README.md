@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)]
 
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)]
+![](https://komarev.com/ghpvc/?username=saravana611)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saravana611/saravana611/main/resources/images/saravanavel.png"/>
+  <img src="https://raw.githubusercontent.com/saravana611/saravana611/main/resources/images/saravana611.png"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)

@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/jonathankamau/jonathankamau/master/resources/images/my-initials.gif"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
+
 My name is saravanavel and I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
 
 ## Find me on 
@@ -44,8 +46,10 @@ My name is saravanavel and I am currently a Student in [Rathinam college of Arts
 
 
 
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&theme=blue-green)
 
 ![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 

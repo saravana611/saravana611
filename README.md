@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=YourUsername)
+![github stats](https://github-readme-stats.vercel.app/api?username=saravana611)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

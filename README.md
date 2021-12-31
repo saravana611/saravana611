@@ -10,7 +10,7 @@ My name is
 
 My name is  I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
 
-# Hi there, I'm Vedant <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm saravanavel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
@@ -69,7 +69,7 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 ## Github Stats
 <br>
 
-![Envoy-VC's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green)
+![saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green)
 
 <br>
 
@@ -77,7 +77,7 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)]
+![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)
 
 <br>
 <br>
@@ -90,7 +90,7 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 
 
 
-<p align="middle-left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green"/>
   <                                                                    
                               />

@@ -69,7 +69,7 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 ## Github Stats
 <br>
 
-![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=saravana611&show_icons=true&theme=dark)
+![Envoy-VC's GitHub stats]("https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green")
 
 <br>
 
@@ -77,7 +77,7 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=saravana611&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)]
 
 <br>
 <br>

@@ -66,6 +66,8 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 <li><a href="https://github.com/jonathankamau/public-transportation-project" target="_blank">Public Transit Status with Apache Kafka</a></li>
 </ul>
 
+<br>
+
 ## Github Stats
 <br>
 

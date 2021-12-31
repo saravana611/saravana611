@@ -66,6 +66,27 @@ My name is  I am currently a Student in [Rathinam college of Arts and Science](h
 <li><a href="https://github.com/jonathankamau/public-transportation-project" target="_blank">Public Transit Status with Apache Kafka</a></li>
 </ul>
 
+## Github Stats
+<br>
+
+![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=envoy-vc&show_icons=true&theme=dark)
+
+<br>
+
+----
+
+<br>
+
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
+
+<br>
+<br>
+
+----
+
+<br>
+
+
 
 
 

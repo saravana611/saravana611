@@ -10,6 +10,12 @@ My name is
 
 My name is  I am currently a Student in [Rathinam college of Arts and Science](https://www.rathinamcollege.edu.in/).I actively pursue self-learning and growth as a data scientist and always work towards improving my craft.
 
+# Hi there, I'm Vedant <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
+</p>
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>

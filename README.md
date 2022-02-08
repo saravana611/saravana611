@@ -28,9 +28,7 @@
 [Instagram]: https://www.instagram.com/saravana_611/
 
 <br />
-<p>
-    <img class="center" alt="Manish Sharma's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=saravana611"/>
-</p>
+![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 <br>
 
 ----

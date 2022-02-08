@@ -44,7 +44,7 @@
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)
-## https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH007700&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes
+
 
 
 <br>

@@ -3,10 +3,10 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### I am a proactive IT Student, who loves DataScience and AI ❤️
+### I am an  IT Student, who loves DataScience and AI ❤️
 
 - 🔭 I’m currently working on - Machine Learning
-- 🌱 I’m currently learning - Advanced python
+- 🌱 I’m currently learning - Bsc IT with specialization of Data Science
 - ❤️ I love statistics,calculus,probality
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP,CV
 - 🤔 I’m looking for Intern

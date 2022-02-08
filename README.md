@@ -26,7 +26,7 @@
 <!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
 [linkedin]:https://www.linkedin.com/in/saravanavel-v-24bb101a7/
 [Mail]: mailto:saravanavel612@@gmail.com
-[Instagram]: https://www.instagram.com/saravana611/
+[Instagram]: https://www.instagram.com/saravana_611/
 
 <br />
 <br>

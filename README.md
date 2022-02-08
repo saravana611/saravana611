@@ -1,10 +1,19 @@
 
 # Hi there, I'm saravanavel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<h2>नमस्ते (Namaste)🙏🏻, I'm Manish Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
-</p>
+### I am a Final Year ECE Student, who loves DataScience and AI ❤️
+
+- 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
+- 🌱 I’m currently learning - Object Detection using TF2 🤡
+- 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
+- 🤔 I’m looking for Intern or Intern + FTE Role 😄
+- 💬 Ask me about - Anything 🤫
+- ⚡ Fun fact: I love Masala Dhosa 🥘 and Calistheics 🏃
+
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>

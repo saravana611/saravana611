@@ -43,7 +43,7 @@
 
 <br>
 
-![Top Languages](https://readme-stats.vercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)
+![Top Languages](https://readme-stats-envoy-vcvercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)
 
 
 <br>

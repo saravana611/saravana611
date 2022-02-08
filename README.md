@@ -18,9 +18,9 @@
 # Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> 😊</em>
 
-[<img align="left" alt="Manish Sharma | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Manish Sharma | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-[<img align="left" alt="Manish Sharma | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="Saravanavel V | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Saravanavel V | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
+[<img align="left" alt="Saravanavel V | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 
 <!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
 [linkedin]:https://www.linkedin.com/in/saravanavel-v-24bb101a7/

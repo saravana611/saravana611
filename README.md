@@ -26,9 +26,11 @@
 [linkedin]:https://www.linkedin.com/in/saravanavel-v-24bb101a7/
 [Mail]: mailto:saravanavel612@@gmail.com
 [Instagram]: https://www.instagram.com/saravana_611/
-![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
 
 <br />
+<br>
+![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
+<br/>
 
 <br>
 

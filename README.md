@@ -28,11 +28,11 @@
 [Instagram]: https://www.instagram.com/saravana_611/
 
 <br />
-<br>
-![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
-<br/>
 
-<br>
+<p>
+    ![](https://komarev.com/ghpvc/?username=saravana611&color=blue&style=plastic)
+</p>
+
 
 ----
 <br>

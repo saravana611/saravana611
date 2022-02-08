@@ -24,8 +24,8 @@
 [<img align="left" alt="Manish Sharma | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 
 <!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
-[linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com.com&su=SUBJECT&body=BODY&tf=1
+[linkedin]:https://www.linkedin.com/in/saravanavel-v-24bb101a7/
+[Mail]: mailto:vedantchainani1084@gmail.com
 [Instagram]: https://www.instagram.com/lucifer_x007/
 
 <br />

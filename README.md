@@ -28,14 +28,12 @@
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com.com&su=SUBJECT&body=BODY&tf=1
 [Instagram]: https://www.instagram.com/lucifer_x007/
 
-
 <br />
-
-
-
+<br>
 
 ----
 
+<br>
 
 ## Github Stats
 <br>

@@ -16,7 +16,7 @@
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 ----
-# <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me <em><b>
+# Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> 😊</em>
 
 [<img align="left" alt="Manish Sharma | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -25,8 +25,8 @@
 
 <!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
 [linkedin]:https://www.linkedin.com/in/saravanavel-v-24bb101a7/
-[Mail]: mailto:vedantchainani1084@gmail.com
-[Instagram]: https://www.instagram.com/lucifer_x007/
+[Mail]: mailto:saravanavel612@@gmail.com
+[Instagram]: https://www.instagram.com/saravana611/
 
 <br />
 <br>

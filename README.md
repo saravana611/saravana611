@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> 😊</em>
 
-[<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][LinkedIn](https://www.linkedin.com/in/vedant-chainani/")
+[<img align="left" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/vedant-chainani/")
 [<img align="left" alt="Manish Sharma | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][https://www.linkedin.com/in/vedant-chainani/]
 [<img align="left" alt="saravana611 | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 

@@ -5,8 +5,8 @@
 
 ### I am an  IT Student, who loves DataScience and AI ❤️
 
-- 🔭 I’m currently working on - Machine Learning
-- 🌱 I’m currently learning - Bsc IT with specialization of Data Science
+- 🔭 I’m currently learning - Machine Learning
+- 🌱 I’m currently pursing - Bsc IT with specialization of Data Science
 - ❤️ I love Statistics,Calculus,Probability
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP,CV
 - 🤔 I’m looking for Intern

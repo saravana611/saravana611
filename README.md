@@ -39,26 +39,29 @@
 ----
 <br>
 
-## Github Stats
-<br/>
-
-![saravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green)
-
-<br>
-
-----
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&layout=compact&theme=blue-green)
 
 
+<h2>🎯 Statistics and Languages :</h2>
+<details> 
+  GitHub Profile Stats
+  <br/>
+    <img width="49%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=saravana611&show_icons=true&theme=blue-green" />
+    <img width="49%" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravana611&langs_count=4&layout=compact&theme=blue-green" />
+  <br/>
+</details>
 
-<br>
-<br>
+<details> 
+  <summary>GitHub Profile Streak</summary>
+  <br/>
+  <p align="center">
+    <img alt="saravana's streak" src="https://github-readme-streak-stats.herokuapp.com?user=saravana611&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D"/> 
+  </p>
+  <br/>
+</details>
 
-----
+ <!-- <div> -->
+<!--<img width="98%" alt="contributions graph" src="https://activity-graph.herokuapp.com/graph?username=saravana611&area=true&layout=compact&theme=react-dark" /> ––>
+<!-- </div>  -->
 
-<br>
 
 
